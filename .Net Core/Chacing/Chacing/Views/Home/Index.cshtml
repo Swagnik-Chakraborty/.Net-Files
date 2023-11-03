@@ -1,0 +1,11 @@
+﻿@model DateTime
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+<div>
+    <span>Current Time @DateTime.Now.ToString();</span>
+    <span> Cached Time : @Model.ToString();</span>
+</div>

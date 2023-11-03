@@ -1,0 +1,8 @@
+C:\Users\swagnik_chakraborty\Desktop\.NET\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.csproj.AssemblyReference.cache
+C:\Users\swagnik_chakraborty\Desktop\.NET\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\swagnik_chakraborty\Desktop\.NET\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\swagnik_chakraborty\Desktop\.NET\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.exe.config
+C:\Users\swagnik_chakraborty\Desktop\.NET\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.exe
+C:\Users\swagnik_chakraborty\Desktop\.NET\CollectionDemo\CollectionDemo\bin\Debug\CollectionDemo.pdb
+C:\Users\swagnik_chakraborty\Desktop\.NET\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.exe
+C:\Users\swagnik_chakraborty\Desktop\.NET\CollectionDemo\CollectionDemo\obj\Debug\CollectionDemo.pdb

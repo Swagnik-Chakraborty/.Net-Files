@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CustomMiddleWareDemo",
+    "\\CustomMiddleWareDemo\\CustomMiddleWareDemo",
+    "\\CustomMiddleWareDemo\\CustomMiddleWareDemo\\Areas",
+    "\\CustomMiddleWareDemo\\CustomMiddleWareDemo\\Areas\\Admin",
+    "\\CustomMiddleWareDemo\\CustomMiddleWareDemo\\Areas\\Admin\\Controllers",
+    "\\CustomMiddleWareDemo\\CustomMiddleWareDemo\\Middlewares",
+    "\\CustomMiddleWareDemo\\CustomMiddleWareDemo\\Views",
+    "\\CustomMiddleWareDemo\\CustomMiddleWareDemo\\Views\\Login"
+  ],
+  "SelectedNode": "\\CustomMiddleWareDemo\\CustomMiddleWareDemo\\Middlewares\\AuthenticationMiddleware.cs",
+  "PreviewInSolutionExplorer": false
+}

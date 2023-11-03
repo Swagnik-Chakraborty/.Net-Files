@@ -1,0 +1,60 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>Hello Swagnik</h1>
+ Swagnik belongs to @ViewBag.State and he is @ViewData["Age"] years old .
+ He is a @TempData["Designation"]
+
+
+@{
+   <h1>ViewBag Example</h1>
+    foreach(var places in ViewBag.Place)
+    {
+        <h1>@places</h1>
+    }
+}
+
+@{
+    <h1>Viewbag Example1 for generic type list</h1>
+    foreach (var places in ViewBag.Places1)
+    {
+        <h1>@places</h1>
+    }
+
+}
+
+@{
+    <h1>Viewdata Example</h1>
+    foreach (var places in (string[]) ViewData["NewPlace"])
+    {
+        <h1>@places</h1>
+    }
+}
+@{
+    <h1>Viewdata Example1 for generic type list</h1>
+    foreach (var places in (List<string>)ViewData["NewPlace1"])
+    {
+        <h1>@places</h1>
+    }
+}
+
+@{
+    <h1>TempData example</h1>
+    foreach(var location in (string[])TempData["NewLocation"])
+
+    {
+        <h1>@location</h1>
+    }
+}
+@{
+    <h1>Tempdata example for generic type list</h1>
+
+    foreach(string location in (List<string>)TempData["NewLocation1"])
+    {
+        
+        <h1>@location</h1>
+    }
+}

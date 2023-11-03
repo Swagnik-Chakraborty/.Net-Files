@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Dependency",
+    "\\Dependency\\Controllers",
+    "\\Dependency\\interfaces"
+  ],
+  "SelectedNode": "\\Dependency\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,6 @@
+C:\Users\swagnik_chakraborty\Desktop\.NET\MathsLibrary\MathsLibrary\bin\Debug\MathsLibrary.dll
+C:\Users\swagnik_chakraborty\Desktop\.NET\MathsLibrary\MathsLibrary\bin\Debug\MathsLibrary.pdb
+C:\Users\swagnik_chakraborty\Desktop\.NET\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.csproj.AssemblyReference.cache
+C:\Users\swagnik_chakraborty\Desktop\.NET\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\swagnik_chakraborty\Desktop\.NET\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.dll
+C:\Users\swagnik_chakraborty\Desktop\.NET\MathsLibrary\MathsLibrary\obj\Debug\MathsLibrary.pdb

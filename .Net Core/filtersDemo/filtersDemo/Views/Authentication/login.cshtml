@@ -1,0 +1,16 @@
+﻿@*@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers*@
+@model WebApplicationDay2FormValidation.Models.Employee;
+
+<form asp-action="Index" asp-controller="Home" method="post">
+    <label asp-for="EmpId"></label>
+    <br />
+    <input asp-for="EmpId" placeholder="Enter Employee Id" class="form-control" />
+    <br />
+    <span asp-validation-for="EmpId"></span>
+    <br />
+    <label asp-for="EmpName"></label>
+    <br />
+    <input asp-for="EmpName" placeholder="Enter Employee Name" class="form-control" />
+    <br />
+    <span asp-validation-for="EmpName"></span>
+    </form>

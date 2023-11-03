@@ -1,0 +1,47 @@
+﻿@*@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers*@
+@model WebApplicationDay2.Models.Employee
+
+
+
+<form asp-action="Index" asp-controller="Home" method="post">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" placeholder="Enter Your Name" class="form-control" />
+
+    <br />
+    <select asp-for="Gender" class="form-control" asp-items="Html.GetEnumSelectList<Gender>()">
+        <option value="">Select Gender</option>
+    </select>  <br />
+    <label asp-for="Age"></label>
+    <br/>
+    <input asp-for="Age" placeholder="Enter Your age" class="form-control" />
+    <br />
+    <label asp-for="Designation"></label>
+    <br />
+    <input asp-for="Designation" placeholder="Enter Your Designation" class="form-control" />
+    <br />
+     <label asp-for="Salary"></label>
+    <br />
+    <input asp-for="Salary" placeholder="Enter Your Salary" class="form-control" />
+    <br />
+    <label asp-for="Experience"></label>
+    <br />
+    <input asp-for="Experience" placeholder="Enter Your Experience" class="form-control" />
+    <br />
+    <label> Married</label>
+    <br/>
+    <label> Yes</label>
+    <input type="radio" asp-for="Married" value="Yes"  />
+    <label> No</label>
+    <input type="radio" asp-for="Married" value="No" />
+    <br />
+     <label>Looking for New Job opportunities?</label>
+     <br/>
+     <label>Yes</label>
+    <input type="checkbox" asp-for="JobOpportunities" value="Yes" />
+    
+    <label>No</label>
+    <input type="checkbox" asp-for="JobOpportunities" value="No"  />
+    <br/>
+    <br/>
+    <input type="submit" value="Submit" class="btn-primary"  />
+</form>

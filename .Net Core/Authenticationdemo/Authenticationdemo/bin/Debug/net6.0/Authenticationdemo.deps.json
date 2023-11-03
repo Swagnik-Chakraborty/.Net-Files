@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Authenticationdemo/1.0.0": {
+        "runtime": {
+          "Authenticationdemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Authenticationdemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

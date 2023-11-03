@@ -1,0 +1,39 @@
+﻿<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <table border="1" style="width:800px; font-family:Arial;background-color:antiquewhite;">
+        <tr>
+            <td colspan="2" style="text-align:center">
+                <h3>Persistent Systems Limited</h3>
+            </td>
+        </tr>
+        <tr>
+            <td style="width:200px">
+                <img src="~/images/images.jfif" width="200" height="200" />
+                <center>
+                <b> @Html.ActionLink("Home Page","Index")</b>
+               
+                <br />
+                <br />
+                <b> @Html.ActionLink("About Us","AboutUs")</b>
+                <br />
+                <br/>
+                <b> @Html.ActionLink("Contact Us","ContactUs")</b>
+               
+                </center>
+            </td>
+            <td style="width:600px">
+                @RenderBody()
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center; font-size:x-small">
+                <h3>CopyRight </h3>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

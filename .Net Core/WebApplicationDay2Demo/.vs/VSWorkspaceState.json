@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebApplicationDay2Demo",
+    "\\WebApplicationDay2Demo\\Views",
+    "\\WebApplicationDay2Demo\\Views\\Home",
+    "\\WebApplicationDay2Demo\\wwwroot",
+    "\\WebApplicationDay2Demo\\wwwroot\\lib",
+    "\\WebApplicationDay2Demo\\wwwroot\\lib\\bootstrap",
+    "\\WebApplicationDay2Demo\\wwwroot\\lib\\bootstrap\\dist"
+  ],
+  "SelectedNode": "\\WebApplicationDay2Demo\\Views\\Home\\AboutUs.cshtml",
+  "PreviewInSolutionExplorer": false
+}
